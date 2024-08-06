@@ -1,1 +1,1 @@
-# faculdade-2
+Primeiro commit: adicionando projeto ao repositório
